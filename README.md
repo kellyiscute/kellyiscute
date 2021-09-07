@@ -11,7 +11,7 @@ A frontend developer with the knowledge and ability to develop backend apps and 
 - ⚡ Imagine a cute trans-girl sitting there and coding, how cute would that be!
 
 
-![overview](https://github.com/guo40020/fictional-pancake/raw/master/generated/overview.svg) ![lang](https://github.com/guo40020/fictional-pancake/raw/master/generated/languages.svg)
+![lang](https://github.com/guo40020/fictional-pancake/raw/master/generated/languages.svg)
 
 <!--
 **guo40020/guo40020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
