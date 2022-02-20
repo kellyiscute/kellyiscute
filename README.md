@@ -2,6 +2,8 @@
 This is Kelly.  
 **A friendly warning: DO NOT CALL ME BY MY LEGAL NAME, otherwise...... you won't know what will happen.**  
 A frontend developer with the knowledge and ability to develop backend apps and deploy apps;  
+
+[![wakatime](https://wakatime.com/badge/user/8e1724ba-7cc6-4308-a132-40116a400d0b.svg)](https://wakatime.com/@8e1724ba-7cc6-4308-a132-40116a400d0b)
   
 - 🔭 I’m currently working on my own raycast extension to boost my productivity
 - 💗 Loves Dart and typescript
