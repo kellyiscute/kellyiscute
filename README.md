@@ -5,7 +5,7 @@ A frontend developer with the knowledge and ability to develop backend apps and 
 
 [![wakatime](https://wakatime.com/badge/user/8e1724ba-7cc6-4308-a132-40116a400d0b.svg)](https://wakatime.com/@8e1724ba-7cc6-4308-a132-40116a400d0b)
   
-- 🔭 I’m currently working on my own raycast extension to boost my productivity
+- 🔭 I’m currently working on collaborate-notifier
 - 💗 Loves Dart and typescript
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: WeChat/QQ: 1007610883
