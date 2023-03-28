@@ -5,12 +5,11 @@ A frontend developer with the knowledge and ability to develop backend apps and 
 
 [![wakatime](https://wakatime.com/badge/user/8e1724ba-7cc6-4308-a132-40116a400d0b.svg)](https://wakatime.com/@8e1724ba-7cc6-4308-a132-40116a400d0b)
   
-- 🔭 I’m currently working on collaborate-notifier
-- 💗 Loves Dart and typescript
+- 🔭 I’m currently working on nothing
+- 💗 Loves Dart, C# and typescript
 - 💬 Ask me about ANYTHING
-- 📫 How to reach me: WeChat/QQ: 1007610883
+- 📫 How to reach me: guojiyou40020@hotmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Imagine a cute trans-girl sitting there and coding, how cute would that be!
 
 ### 7-days summary by wakatime
 <table>
