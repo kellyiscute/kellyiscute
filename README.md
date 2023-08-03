@@ -1,11 +1,11 @@
 ## Hi there 👋
 This is Kelly.  
 **A friendly warning: DO NOT CALL ME BY MY LEGAL NAME, otherwise...... you won't know what will happen.**  
-A frontend developer with the knowledge and ability to develop backend apps and deploy apps;  
+A REAL full stack dev.  
 
 [![wakatime](https://wakatime.com/badge/user/8e1724ba-7cc6-4308-a132-40116a400d0b.svg)](https://wakatime.com/@8e1724ba-7cc6-4308-a132-40116a400d0b)
   
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on living my life
 - 💗 Loves Dart, C# and typescript
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: guojiyou40020@hotmail.com
@@ -16,6 +16,7 @@ A frontend developer with the knowledge and ability to develop backend apps and 
   <tr>
     <td>Language usage</td>
     <td>Editor usage</td>
+    <td>OS usage</td>
   </tr>
   <tr>
     <td>
@@ -23,6 +24,9 @@ A frontend developer with the knowledge and ability to develop backend apps and 
     </td>
     <td>
       <img src="https://wakatime.com/share/@guo40020/8c672a98-7ecf-4bbe-842f-436dc4b8ce94.svg" alt="editors" height="300px" />
+    </td>
+    <td>
+      <img src="https://wakatime.com/share/@guo40020/104a319d-7739-4d75-91b9-35b83c2c4d5c.svg" alt="OS" height="300px" />
     </td>
   </tr>
 </table>
