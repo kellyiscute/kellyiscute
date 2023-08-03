@@ -16,7 +16,6 @@ A REAL full stack dev.
   <tr>
     <td>Language usage</td>
     <td>Editor usage</td>
-    <td>OS usage</td>
   </tr>
   <tr>
     <td>
@@ -24,9 +23,6 @@ A REAL full stack dev.
     </td>
     <td>
       <img src="https://wakatime.com/share/@guo40020/8c672a98-7ecf-4bbe-842f-436dc4b8ce94.svg" alt="editors" height="300px" />
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@guo40020/104a319d-7739-4d75-91b9-35b83c2c4d5c.svg" alt="OS" height="300px" />
     </td>
   </tr>
 </table>
