@@ -1,15 +1,17 @@
 ## Hi there 👋
 This is Kelly.  
-**A friendly warning: DO NOT CALL ME BY MY LEGAL NAME, otherwise...... you won't know what will happen.**  
 A REAL full stack dev.  
 
 [![wakatime](https://wakatime.com/badge/user/8e1724ba-7cc6-4308-a132-40116a400d0b.svg)](https://wakatime.com/@8e1724ba-7cc6-4308-a132-40116a400d0b)
   
 - 🔭 I’m currently working on living my life
-- 💗 Loves Dart, C# and typescript
+- 💗 Loves C# and typescript
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: guojiyou40020@hotmail.com
+- 🌱 I’m currently learning HUMAN LANGUAGE
 - 😄 Pronouns: she/her/hers
+
+I use Arch BTW...😝
 
 ### 7-days summary by wakatime
 <table>
