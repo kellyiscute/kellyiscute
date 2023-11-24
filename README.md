@@ -1,15 +1,14 @@
 ## Hi there 👋
 This is Kelly.  
 A REAL full stack dev.  
-
-[![wakatime](https://wakatime.com/badge/user/8e1724ba-7cc6-4308-a132-40116a400d0b.svg)](https://wakatime.com/@8e1724ba-7cc6-4308-a132-40116a400d0b)
   
-- 🔭 I’m currently working on living my life
+- 🔭 I’m currently working on WalkmanManager2 and rewriting my nvim config with lua
 - 💗 Loves C# and typescript
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: guojiyou40020@hotmail.com
 - 🌱 I’m currently learning HUMAN LANGUAGE
 - 😄 Pronouns: she/her/hers
+- 🔏 OpenPGP Key Fingerprint: F0ED2B0D0D197FB2FA67B08323BBAEC4A4A2AD9A
 
 I use Arch BTW...😝
 
