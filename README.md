@@ -8,7 +8,7 @@ A REAL full stack dev.
 - 📫 How to reach me: guojiyou40020@hotmail.com
 - 🌱 I’m currently learning HUMAN LANGUAGE
 - 😄 Pronouns: she/her/hers
-- 🔏 OpenPGP Key Fingerprint: B083 23BB AEC4 A4A2 AD9A
+- 🔏 OpenPGP Key Fingerprint: F0ED 2B0D 0D19 7FB2 FA67  B083 23BB AEC4 A4A2 AD9A
 
 I use Arch BTW...😝
 
