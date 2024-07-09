@@ -2,7 +2,7 @@
 This is Kelly.  
 A REAL full stack dev.  
   
-- 🔭 I’m currently working on WalkmanManager2 and rewriting my nvim config with lua
+- 🔭 I’m currently working on WalkmanManager2 and creating a migratable workspace using NixOS
 - 💗 Loves C# and typescript
 - 💬 Ask me about ANYTHING
 - 📫 How to reach me: guojiyou40020@hotmail.com
